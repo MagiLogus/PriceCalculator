@@ -1,0 +1,15 @@
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\bin\Debug\net7.0\PriceCalculator.exe
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\bin\Debug\net7.0\PriceCalculator.deps.json
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\bin\Debug\net7.0\PriceCalculator.runtimeconfig.json
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\bin\Debug\net7.0\PriceCalculator.dll
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\bin\Debug\net7.0\PriceCalculator.pdb
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\obj\Debug\net7.0\PriceCalculator.csproj.AssemblyReference.cache
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\obj\Debug\net7.0\PriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\obj\Debug\net7.0\PriceCalculator.AssemblyInfoInputs.cache
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\obj\Debug\net7.0\PriceCalculator.AssemblyInfo.cs
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\obj\Debug\net7.0\PriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\obj\Debug\net7.0\PriceCalculator.dll
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\obj\Debug\net7.0\refint\PriceCalculator.dll
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\obj\Debug\net7.0\PriceCalculator.pdb
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\obj\Debug\net7.0\PriceCalculator.genruntimeconfig.cache
+C:\Users\Paulo Gonçalves\Desktop\PriceCalculator\obj\Debug\net7.0\ref\PriceCalculator.dll
